@@ -1,4 +1,2 @@
-$(eval 
 const responses = ['@$(user)'+ $(customapi  https://raw.githubusercontent.com/eclesiartes/tchau/master/texto_despedida)];
 responses[Math.floor(Math.random() * responses.length)];
-)
